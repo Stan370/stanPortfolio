@@ -1,2 +1,2 @@
 # stanPortfolio
-A beautiful portfolio template for Developers
+My personal website built with React

@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import { Menu, X, ExternalLink, GitHub, Linkedin, Twitter, Mail, Rss } from 'lucide-react';
+import { Menu, X, ExternalLink, Github, Linkedin, Twitter, Mail, Rss } from 'lucide-react';
 
 // TODO: typo
 export default function App() {
